@@ -1,4 +1,4 @@
-# �� Hi there, I&#39;rrohithreddycse_2305h9-maker.in!- �� I’m passionate about Full Stack Development
+# �� Hi there, I&#39;rrohithreddycse_2305h9-maker!- �� I’m passionate about Full Stack Development
 Cybersecurity- �� Currently learning: Spring Boot, MongoDB, and GitHub Actions
 �� Fun Fact: I once debugged a 50-line error just by adding a semicolon
 ## ��️ Skills &amp; Tools
